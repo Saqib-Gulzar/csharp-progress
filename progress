@@ -22,10 +22,11 @@ Polymorphism
 constructor
 ======================================================================================
 
-04/08/2025-----Types of Classes(Saqib, Mahrukh, Sofia, Muskan)
+04/08/2025----- Types of Classes
                 1.Concrete class
                 2.abstract class
                 3.Sealed class
-          ......abstract methods
-
-
+	        abstract methods
+	attendence : >> Saqib, Mahrukh, Sofia, Muskan
+	questions : >> making abstract engine class and inherit that with Sealed Car class 
+	questions for homework: nope
